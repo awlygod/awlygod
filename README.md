@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Tripathi</h1>
-<h3 align="center">curious about AI, computers and electronics</h3>
+<h3 align="center">curious about AI, Computers and Web3</h3>
 
-- 🔭 I’m currently working on **Benzene**
+- 🔭 I’m currently working on **uni-verse (Personal Project)**
 
 - 📫 How to reach me **surajpatitripathi@gmail.com**
 
