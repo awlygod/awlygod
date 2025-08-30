@@ -2,7 +2,7 @@
 <h3 align="center">21 year old something guy who loves building stuffs</h3>
 
 - 🔭 I’m currently working on **uni-verse (Personal Project)**
-- I have pondered upon many domains like AI, Development (Web and Mobile) , WEB3 you could find varities.. 
+- I have pondered upon many domains like AI, Development (Web and Mobile) , WEB3 -- you could find all different set of projects i have worked on here -_- 
 
 - 📫 How to reach me **surajpatitripathi@gmail.com**
 
