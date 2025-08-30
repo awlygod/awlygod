@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suraj Tripathi</h1>
-<h3 align="center">curious about AI, Computers and Web3</h3>
+<h1 align="center">Hey 👋, Suraj this side</h1>
+<h3 align="center">21 year old something guy who loves building stuffs</h3>
 
 - 🔭 I’m currently working on **uni-verse (Personal Project)**
+- I have pondered upon many domains like AI, Development (Web and Mobile) , WEB3 you could find varities.. 
 
 - 📫 How to reach me **surajpatitripathi@gmail.com**
 
